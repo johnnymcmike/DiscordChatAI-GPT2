@@ -1,5 +1,7 @@
 # Your Own Personal AI Chatbot
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)   [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+# This repo has been archived
+The upstream aitextgen library seems to have been stuck in dependency hell for a long time. I have tried many times to clone this repo myself and get the setup for my bot working again, with different esoteric problems every time, no matter the versions or environment things I tweak. Due to upstream not really seein much attention in the modern era of ChatGPT and much more homogenized, technically-impressive AI, I have decided to archive this repo for the time being. If I ever find a more portable and reproducible way to recapture the funny broken half-coherent AI of old, I promise I will make something new and spread it around. 
 ## What's This?
 Gravital is an AI Discord chatbot based on [aitextgen's](https://github.com/minimaxir/aitextgen) implementation of GPT-2. There is a full, start-to-finish [tutorial](https://github.com/johnnymcmike/Gravital/blob/master/TUTORIAL.md) for setting up and training the bot on your discord server's history, and I have observed it to pick up on my server's inside jokes, say usernames, and generally type a lot like one of us with surprising coherency.
 
